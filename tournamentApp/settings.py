@@ -128,7 +128,7 @@ STATIC_URL = 'static/'
 SITE_URL = 'http://localhost:3000'
 
 
-# DEFAULT_FROM_EMAIL = 'muhammadmaarij7@gmail.com'
+# DEFAULT_FROM_EMAIL = ''
 
 # EMAIL_BACKEND="django.core.mail.backends.console.EmailBackend"
 
